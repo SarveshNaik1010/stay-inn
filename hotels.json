@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Hotel Dark Diamon",
+    "location": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "price_per_night": 280,
+    "rating": {
+      "score": 4.9,
+      "reviews": "6.8K reviews"
+    },
+    "description": "Hotel Dark Diamon offers luxurious rooms with breathtaking views of the Swiss Alps, perfect for winter getaways.",
+    "amenities": [
+      { "icon": "🛏️", "label": "2 Bed" },
+      { "icon": "🍽️", "label": "Dinner" },
+      { "icon": "🛁", "label": "Hot Tub" },
+      { "icon": "❄️", "label": "1 Ac" }
+    ],
+    "image_url": "https://example.com/hotels/dark-diamon.jpg"
+  },
+  {
+    "name": "Hotel Postinio Berry",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "price_per_night": 480,
+    "rating": {
+      "score": 4.9,
+      "reviews": "6.8K reviews"
+    },
+    "description": "Hotel Postinio Berry, just 100 metres from Front Beach, offers tower accommodation with a garden, private parking, and a shared lounge.",
+    "amenities": [
+      { "icon": "🛏️", "label": "2 Bed" },
+      { "icon": "🍽️", "label": "Dinner" },
+      { "icon": "🛁", "label": "Hot Tub" },
+      { "icon": "❄️", "label": "1 Ac" }
+    ],
+    "image_url": "https://example.com/hotels/postinio-berry.jpg"
+  },
+  {
+    "name": "Azure Bay Resort",
+    "location": {
+      "city": "Santorini",
+      "country": "Greece"
+    },
+    "price_per_night": 350,
+    "rating": {
+      "score": 4.8,
+      "reviews": "4.2K reviews"
+    },
+    "description": "Azure Bay Resort boasts panoramic sea views, an infinity pool, and gourmet dining by the Aegean Sea.",
+    "amenities": [
+      { "icon": "🛏️", "label": "1 King Bed" },
+      { "icon": "🏖️", "label": "Private Beach" },
+      { "icon": "🥂", "label": "Bar" },
+      { "icon": "🏊", "label": "Pool" }
+    ],
+    "image_url": "https://example.com/hotels/azure-bay.jpg"
+  },
+  {
+    "name": "Emerald Sands Hotel",
+    "location": {
+      "city": "Dubai",
+      "country": "UAE"
+    },
+    "price_per_night": 520,
+    "rating": {
+      "score": 4.7,
+      "reviews": "8.1K reviews"
+    },
+    "description": "Emerald Sands Hotel offers beachfront suites with direct views of the Burj Al Arab and a luxurious spa.",
+    "amenities": [
+      { "icon": "🛏️", "label": "Suite" },
+      { "icon": "🍽️", "label": "All-inclusive Dining" },
+      { "icon": "🏋️", "label": "Gym" },
+      { "icon": "🚗", "label": "Free Parking" }
+    ],
+    "image_url": "https://example.com/hotels/emerald-sands.jpg"
+  },
+  {
+    "name": "Maplewood Retreat",
+    "location": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "price_per_night": 190,
+    "rating": {
+      "score": 4.6,
+      "reviews": "2.3K reviews"
+    },
+    "description": "Maplewood Retreat offers cozy cabins surrounded by pine forests, ideal for nature lovers and hikers.",
+    "amenities": [
+      { "icon": "🛏️", "label": "Queen Bed" },
+      { "icon": "🔥", "label": "Fireplace" },
+      { "icon": "🍳", "label": "Breakfast" },
+      { "icon": "🚶", "label": "Hiking Trails" }
+    ],
+    "image_url": "https://example.com/hotels/maplewood-retreat.jpg"
+  }
+]
